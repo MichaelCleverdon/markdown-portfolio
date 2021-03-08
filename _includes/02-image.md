@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Picture](https://cdn.vox-cdn.com/thumbor/7WRwwPIyyQtq-Cd7nweT7opzKu4=/0x0:1280x800/920x613/filters:focal(538x298:742x502):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/66260585/googlemaps.5.png)
